@@ -1,0 +1,155 @@
+[
+    {
+        "Id": "1-1-0",
+        "Type": 0,
+        "Name": "JTL-Wawi",
+        "ItemCapabilities": {
+            "Descriptions": true,
+            "OnlineShopActivation": false,
+            "Prices": true,
+            "SpecialPrices": true,
+            "Images": true
+        },
+        "CategoryCapabilities": {
+            "Descriptions": true,
+            "OnlineShopActivation": false
+        },
+        "DocumentationUrl": "TODO"
+    },
+    {
+        "Id": "3-5",
+        "Type": 8,
+        "Name": "XML-Import",
+        "ItemCapabilities": {
+            "Descriptions": false,
+            "OnlineShopActivation": false,
+            "Prices": false,
+            "SpecialPrices": false,
+            "Images": false
+        },
+        "CategoryCapabilities": {
+            "Descriptions": false,
+            "OnlineShopActivation": false
+        },
+        "DocumentationUrl": "TODO"
+    },
+    {
+        "Id": "2-2-1",
+        "Type": 0,
+        "Name": "JTL-Shop: Electronicx (Liveshop)",
+        "ItemCapabilities": {
+            "Descriptions": true,
+            "OnlineShopActivation": true,
+            "Prices": true,
+            "SpecialPrices": true,
+            "Images": true
+        },
+        "CategoryCapabilities": {
+            "Descriptions": true,
+            "OnlineShopActivation": true
+        },
+        "DocumentationUrl": "TODO"
+    },
+    {
+        "Id": "2-2-22",
+        "Type": 1,
+        "Name": "Connector-Shop: Shopify Shop",
+        "ItemCapabilities": {
+            "Descriptions": true,
+            "OnlineShopActivation": true,
+            "Prices": true,
+            "SpecialPrices": true,
+            "Images": true
+        },
+        "CategoryCapabilities": {
+            "Descriptions": true,
+            "OnlineShopActivation": true
+        },
+        "DocumentationUrl": "TODO"
+    },
+    {
+        "Id": "9-7-21-0",
+        "Type": 2,
+        "Name": "POS: Kasse",
+        "ItemCapabilities": {
+            "Descriptions": true,
+            "OnlineShopActivation": true,
+            "Prices": true,
+            "SpecialPrices": true,
+            "Images": true
+        },
+        "CategoryCapabilities": {
+            "Descriptions": true,
+            "OnlineShopActivation": true
+        },
+        "DocumentationUrl": "TODO"
+    },
+    {
+        "Id": "5-30-0",
+        "Type": 3,
+        "Name": "Ebay",
+        "ItemCapabilities": {
+            "Descriptions": false,
+            "OnlineShopActivation": false,
+            "Prices": false,
+            "SpecialPrices": false,
+            "Images": true
+        },
+        "CategoryCapabilities": {
+            "Descriptions": false,
+            "OnlineShopActivation": false
+        },
+        "DocumentationUrl": "TODO"
+    },
+    {
+        "Id": "5-30-1",
+        "Type": 3,
+        "Name": "Ebay electronicx_gmbh",
+        "ItemCapabilities": {
+            "Descriptions": true,
+            "OnlineShopActivation": false,
+            "Prices": false,
+            "SpecialPrices": false,
+            "Images": true
+        },
+        "CategoryCapabilities": {
+            "Descriptions": false,
+            "OnlineShopActivation": false
+        },
+        "DocumentationUrl": "TODO"
+    },
+    {
+        "Id": "6-50",
+        "Type": 9,
+        "Name": "Amazon",
+        "ItemCapabilities": {
+            "Descriptions": false,
+            "OnlineShopActivation": false,
+            "Prices": false,
+            "SpecialPrices": false,
+            "Images": true
+        },
+        "CategoryCapabilities": {
+            "Descriptions": false,
+            "OnlineShopActivation": false
+        },
+        "DocumentationUrl": "TODO"
+    },
+    {
+        "Id": "6-51-1",
+        "Type": 9,
+        "Name": "Amazon Electronicx GmbH",
+        "ItemCapabilities": {
+            "Descriptions": true,
+            "OnlineShopActivation": false,
+            "Prices": false,
+            "SpecialPrices": false,
+            "Images": true
+        },
+        "CategoryCapabilities": {
+            "Descriptions": false,
+            "OnlineShopActivation": false
+        },
+        "DocumentationUrl": "TODO"
+    }
+]

@@ -1,0 +1,1536 @@
+{
+    "TotalItems": 661,
+    "PageNumber": 2,
+    "PageSize": 10,
+    "Items": [
+        {
+            "Id": 19632,
+            "SKU": "AUTEL-Abarth-595-595C-02",
+            "ManufacturerId": 5,
+            "ResponsiblePersonId": 1,
+            "IsActive": false,
+            "Categories": [
+                {
+                    "CategoryId": 410,
+                    "Name": "Shopify -> Reifendrucksensoren"
+                },
+                {
+                    "CategoryId": 278,
+                    "Name": "WebShop -> Produkte -> Reifendrucksensoren -> RDKS_AUTEL"
+                },
+                {
+                    "CategoryId": 280,
+                    "Name": "TPMS Sensor -> Autel-Sensoren (Varter+Kind Artikel) -> Abarth"
+                }
+            ],
+            "Name": "4 St\u00fcck Reifendrucksensoren kompatibel mit Abarth 595 & 595C 01.2014 - 12.2015 (595) Alu Silber",
+            "Description": "<p>Kompatibel mit Abarth 595 & 595C</p>\n\n<p>Die Anlernung erfolgt automatisch w&auml;hrend der Fahrt</p>\n\n<p>Die hohe Genauigkeit und Empfindlichkeit verbessert die Sicherheit Ihres Fahrzeuges.<br />\nPasst perfekt zu jedem Fahrzeug mit einem 433Mhz Reifendruckkontrollsystem (TPMS RDKS).<br />\nDank der Premium Qualit&auml;t aus hochwertigem Kunststoff ist der Sensor gut gesch&uuml;tzt und gew&auml;hrt eine lange Lebensdauer.<br />\nSuper einfache DIY-Installation innerhalb weniger Minuten, keine dynamische Auswuchtung erforderlich.</p>",
+            "ShortDescription": "Bitte entnehmen Sie das Baujahr aus dem Fahrzeugschein der Position 6. Die Erstzulassung ist hier nur G\u00fcltig, wenn auf Position 6 kein Datum steht!",
+            "Identifiers": {
+                "Gtin": "4059568144561",
+                "ManufacturerNumber": "01.2014 - 12.2015 (595) Alu Silber ",
+                "Asins": [
+                    "B0CKLPHK53",
+                    "B0CKLPHK53",
+                    "B0CKLPHK53",
+                    "B0CKLPHK53",
+                    "B0CKLPHK53",
+                    "B0CKLPHK53",
+                    "B0CKLPHK53",
+                    "B0CKLPHK53",
+                    "B0CKLPHK53"
+                ]
+            },
+            "Components": [
+                {
+                    "ItemId": 3225,
+                    "Quantity": 4.0,
+                    "SortNumber": 1
+                }
+            ],
+            "ChildItems": [],
+            "ParentItemId": 19630,
+            "ItemPriceData": {
+                "SalesPriceNet": 62.97478992,
+                "SuggestedRetailPrice": 149.99,
+                "PurchasePriceNet": 22.8,
+                "EbayPrice": 0.0,
+                "AmazonPrice": 0.0
+            },
+            "ActiveSalesChannels": [],
+            "SortNumber": 1,
+            "Added": "2023-10-06T13:39:39.06+02:00",
+            "Changed": "2025-03-21T11:00:42+01:00",
+            "ReleasedOnDate": "0001-01-01T00:00:00+00:00",
+            "StorageOptions": {
+                "InventoryManagementActive": false,
+                "SplitQuantity": false,
+                "GlobalMinimumStockLevel": 0.0,
+                "Buffer": 0,
+                "SerialNumberItem": false,
+                "SerialNumberTracking": false,
+                "SubjectToShelfLifeExpirationDate": false,
+                "SubjectToBatchItem": false,
+                "ProcurementTime": 0,
+                "DetermineProcurementTimeAutomatically": false,
+                "AdditionalHandlingTime": 0
+            },
+            "ConditionId": 1,
+            "ShippingClassId": 1,
+            "ProductGroupId": 0,
+            "TaxClassId": 4,
+            "Dimensions": {
+                "Length": 0.0,
+                "Width": 0.0,
+                "Height": 0.0
+            },
+            "Weights": {
+                "ItemWeigth": 0.16,
+                "ShippingWeight": 0.24
+            },
+            "AllowNegativeStock": false,
+            "Quantities": {
+                "MinimumOrderQuantity": 0.0,
+                "MinimumPurchaseQuantityForCustomerGroup": [
+                    {
+                        "CustomerGroupId": 1,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 2,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 3,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 4,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 5,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 6,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 7,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 9,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 10,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    }
+                ],
+                "PermissibleOrderQuantity": 0.0
+            },
+            "DangerousGoods": {
+                "UnNumber": ""
+            },
+            "SearchTerms": "",
+            "PriceListActive": false,
+            "IgnoreDiscounts": false
+        },
+        {
+            "Id": 19633,
+            "SKU": "AUTEL-Abarth-595-595C-03",
+            "ManufacturerId": 5,
+            "ResponsiblePersonId": 1,
+            "IsActive": false,
+            "Categories": [
+                {
+                    "CategoryId": 410,
+                    "Name": "Shopify -> Reifendrucksensoren"
+                },
+                {
+                    "CategoryId": 278,
+                    "Name": "WebShop -> Produkte -> Reifendrucksensoren -> RDKS_AUTEL"
+                },
+                {
+                    "CategoryId": 280,
+                    "Name": "TPMS Sensor -> Autel-Sensoren (Varter+Kind Artikel) -> Abarth"
+                }
+            ],
+            "Name": "4 St\u00fcck Reifendrucksensoren kompatibel mit Abarth 595 & 595C 01.2014 - 12.2015 (595) Alu Gunmetal",
+            "Description": "<p>Kompatibel mit Abarth 595 & 595C</p>\n\n<p>Die Anlernung erfolgt automatisch w&auml;hrend der Fahrt</p>\n\n<p>Die hohe Genauigkeit und Empfindlichkeit verbessert die Sicherheit Ihres Fahrzeuges.<br />\nPasst perfekt zu jedem Fahrzeug mit einem 433Mhz Reifendruckkontrollsystem (TPMS RDKS).<br />\nDank der Premium Qualit&auml;t aus hochwertigem Kunststoff ist der Sensor gut gesch&uuml;tzt und gew&auml;hrt eine lange Lebensdauer.<br />\nSuper einfache DIY-Installation innerhalb weniger Minuten, keine dynamische Auswuchtung erforderlich.</p>",
+            "ShortDescription": "Bitte entnehmen Sie das Baujahr aus dem Fahrzeugschein der Position 6. Die Erstzulassung ist hier nur G\u00fcltig, wenn auf Position 6 kein Datum steht!",
+            "Identifiers": {
+                "Gtin": "4059568144578",
+                "ManufacturerNumber": "01.2014 - 12.2015 (595) Alu Gunmetal ",
+                "Asins": [
+                    "B0CKLP791N",
+                    "B0CKLP791N",
+                    "B0CKLP791N",
+                    "B0CKLP791N",
+                    "B0CKLP791N",
+                    "B0CKLP791N",
+                    "B0CKLP791N",
+                    "B0CKLP791N",
+                    "B0CKLP791N"
+                ]
+            },
+            "Components": [
+                {
+                    "ItemId": 4608,
+                    "Quantity": 4.0,
+                    "SortNumber": 1
+                }
+            ],
+            "ChildItems": [],
+            "ParentItemId": 19630,
+            "ItemPriceData": {
+                "SalesPriceNet": 62.97478992,
+                "SuggestedRetailPrice": 149.99,
+                "PurchasePriceNet": 22.8,
+                "EbayPrice": 0.0,
+                "AmazonPrice": 0.0
+            },
+            "ActiveSalesChannels": [],
+            "SortNumber": 1,
+            "Added": "2023-10-06T13:39:39.06+02:00",
+            "Changed": "2025-03-21T11:00:42+01:00",
+            "ReleasedOnDate": "0001-01-01T00:00:00+00:00",
+            "StorageOptions": {
+                "InventoryManagementActive": false,
+                "SplitQuantity": false,
+                "GlobalMinimumStockLevel": 0.0,
+                "Buffer": 0,
+                "SerialNumberItem": false,
+                "SerialNumberTracking": false,
+                "SubjectToShelfLifeExpirationDate": false,
+                "SubjectToBatchItem": false,
+                "ProcurementTime": 0,
+                "DetermineProcurementTimeAutomatically": false,
+                "AdditionalHandlingTime": 0
+            },
+            "ConditionId": 1,
+            "ShippingClassId": 1,
+            "ProductGroupId": 0,
+            "TaxClassId": 4,
+            "Dimensions": {
+                "Length": 0.0,
+                "Width": 0.0,
+                "Height": 0.0
+            },
+            "Weights": {
+                "ItemWeigth": 0.16,
+                "ShippingWeight": 0.24
+            },
+            "AllowNegativeStock": false,
+            "Quantities": {
+                "MinimumOrderQuantity": 0.0,
+                "MinimumPurchaseQuantityForCustomerGroup": [
+                    {
+                        "CustomerGroupId": 1,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 2,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 3,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 4,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 5,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 6,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 7,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 9,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 10,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    }
+                ],
+                "PermissibleOrderQuantity": 0.0
+            },
+            "DangerousGoods": {
+                "UnNumber": ""
+            },
+            "SearchTerms": "",
+            "PriceListActive": false,
+            "IgnoreDiscounts": false
+        },
+        {
+            "Id": 19634,
+            "SKU": "AUTEL-Abarth-595-595C-04",
+            "ManufacturerId": 5,
+            "ResponsiblePersonId": 1,
+            "IsActive": false,
+            "Categories": [
+                {
+                    "CategoryId": 410,
+                    "Name": "Shopify -> Reifendrucksensoren"
+                },
+                {
+                    "CategoryId": 278,
+                    "Name": "WebShop -> Produkte -> Reifendrucksensoren -> RDKS_AUTEL"
+                },
+                {
+                    "CategoryId": 280,
+                    "Name": "TPMS Sensor -> Autel-Sensoren (Varter+Kind Artikel) -> Abarth"
+                }
+            ],
+            "Name": "4 St\u00fcck Reifendrucksensoren kompatibel mit Abarth 595 & 595C 01.2014 - 12.2015 (595) Gummi Schwarz",
+            "Description": "<p>Kompatibel mit Abarth 595 & 595C</p>\n\n<p>Die Anlernung erfolgt automatisch w&auml;hrend der Fahrt</p>\n\n<p>Die hohe Genauigkeit und Empfindlichkeit verbessert die Sicherheit Ihres Fahrzeuges.<br />\nPasst perfekt zu jedem Fahrzeug mit einem 433Mhz Reifendruckkontrollsystem (TPMS RDKS).<br />\nDank der Premium Qualit&auml;t aus hochwertigem Kunststoff ist der Sensor gut gesch&uuml;tzt und gew&auml;hrt eine lange Lebensdauer.<br />\nSuper einfache DIY-Installation innerhalb weniger Minuten, keine dynamische Auswuchtung erforderlich.</p>",
+            "ShortDescription": "Bitte entnehmen Sie das Baujahr aus dem Fahrzeugschein der Position 6. Die Erstzulassung ist hier nur G\u00fcltig, wenn auf Position 6 kein Datum steht!",
+            "Identifiers": {
+                "Gtin": "4059568144585",
+                "ManufacturerNumber": "01.2014 - 12.2015 (595) Gummi Schwarz",
+                "Asins": [
+                    "B0CKLQQCV1",
+                    "B0CKLQQCV1",
+                    "B0CKLQQCV1",
+                    "B0CKLQQCV1",
+                    "B0CKLQQCV1",
+                    "B0CKLQQCV1",
+                    "B0CKLQQCV1",
+                    "B0CKLQQCV1",
+                    "B0CKLQQCV1"
+                ]
+            },
+            "Components": [
+                {
+                    "ItemId": 3226,
+                    "Quantity": 4.0,
+                    "SortNumber": 1
+                }
+            ],
+            "ChildItems": [],
+            "ParentItemId": 19630,
+            "ItemPriceData": {
+                "SalesPriceNet": 62.97478992,
+                "SuggestedRetailPrice": 149.99,
+                "PurchasePriceNet": 22.8,
+                "EbayPrice": 0.0,
+                "AmazonPrice": 0.0
+            },
+            "ActiveSalesChannels": [],
+            "SortNumber": 1,
+            "Added": "2023-10-06T13:39:39.06+02:00",
+            "Changed": "2025-03-21T11:00:42+01:00",
+            "ReleasedOnDate": "0001-01-01T00:00:00+00:00",
+            "StorageOptions": {
+                "InventoryManagementActive": false,
+                "SplitQuantity": false,
+                "GlobalMinimumStockLevel": 0.0,
+                "Buffer": 0,
+                "SerialNumberItem": false,
+                "SerialNumberTracking": false,
+                "SubjectToShelfLifeExpirationDate": false,
+                "SubjectToBatchItem": false,
+                "ProcurementTime": 0,
+                "DetermineProcurementTimeAutomatically": false,
+                "AdditionalHandlingTime": 0
+            },
+            "ConditionId": 1,
+            "ShippingClassId": 1,
+            "ProductGroupId": 0,
+            "TaxClassId": 4,
+            "Dimensions": {
+                "Length": 0.0,
+                "Width": 0.0,
+                "Height": 0.0
+            },
+            "Weights": {
+                "ItemWeigth": 0.16,
+                "ShippingWeight": 0.24
+            },
+            "AllowNegativeStock": false,
+            "Quantities": {
+                "MinimumOrderQuantity": 0.0,
+                "MinimumPurchaseQuantityForCustomerGroup": [
+                    {
+                        "CustomerGroupId": 1,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 2,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 3,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 4,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 5,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 6,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 7,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 9,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 10,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    }
+                ],
+                "PermissibleOrderQuantity": 0.0
+            },
+            "DangerousGoods": {
+                "UnNumber": ""
+            },
+            "SearchTerms": "",
+            "PriceListActive": false,
+            "IgnoreDiscounts": false
+        },
+        {
+            "Id": 19635,
+            "SKU": "AUTEL-Abarth-595-595C-05",
+            "ManufacturerId": 5,
+            "ResponsiblePersonId": 1,
+            "IsActive": false,
+            "Categories": [
+                {
+                    "CategoryId": 410,
+                    "Name": "Shopify -> Reifendrucksensoren"
+                },
+                {
+                    "CategoryId": 278,
+                    "Name": "WebShop -> Produkte -> Reifendrucksensoren -> RDKS_AUTEL"
+                },
+                {
+                    "CategoryId": 280,
+                    "Name": "TPMS Sensor -> Autel-Sensoren (Varter+Kind Artikel) -> Abarth"
+                }
+            ],
+            "Name": "4 St\u00fcck Reifendrucksensoren kompatibel mit Abarth 595 & 595C 01.2015 - 12.2021 Alu Schwarz",
+            "Description": "<p>Kompatibel mit Abarth 595 & 595C</p>\n\n<p>Die Anlernung erfolgt automatisch w&auml;hrend der Fahrt</p>\n\n<p>Die hohe Genauigkeit und Empfindlichkeit verbessert die Sicherheit Ihres Fahrzeuges.<br />\nPasst perfekt zu jedem Fahrzeug mit einem 433Mhz Reifendruckkontrollsystem (TPMS RDKS).<br />\nDank der Premium Qualit&auml;t aus hochwertigem Kunststoff ist der Sensor gut gesch&uuml;tzt und gew&auml;hrt eine lange Lebensdauer.<br />\nSuper einfache DIY-Installation innerhalb weniger Minuten, keine dynamische Auswuchtung erforderlich.</p>",
+            "ShortDescription": "Bitte entnehmen Sie das Baujahr aus dem Fahrzeugschein der Position 6. Die Erstzulassung ist hier nur G\u00fcltig, wenn auf Position 6 kein Datum steht!",
+            "Identifiers": {
+                "Gtin": "4059568144592",
+                "ManufacturerNumber": "01.2015 - 12.2021 (595C) Alu Schwarz ",
+                "Asins": [
+                    "B0CKLP9PFZ",
+                    "B0CKLP9PFZ",
+                    "B0CKLP9PFZ",
+                    "B0CKLP9PFZ",
+                    "B0CKLP9PFZ",
+                    "B0CKLP9PFZ",
+                    "B0CKLP9PFZ",
+                    "B0CKLP9PFZ",
+                    "B0CKLP9PFZ"
+                ]
+            },
+            "Components": [
+                {
+                    "ItemId": 4609,
+                    "Quantity": 4.0,
+                    "SortNumber": 1
+                }
+            ],
+            "ChildItems": [],
+            "ParentItemId": 19630,
+            "ItemPriceData": {
+                "SalesPriceNet": 62.97478992,
+                "SuggestedRetailPrice": 149.99,
+                "PurchasePriceNet": 22.8,
+                "EbayPrice": 0.0,
+                "AmazonPrice": 0.0
+            },
+            "ActiveSalesChannels": [],
+            "SortNumber": 0,
+            "Added": "2023-10-06T13:39:39.06+02:00",
+            "Changed": "2025-03-21T11:00:42+01:00",
+            "ReleasedOnDate": "0001-01-01T00:00:00+00:00",
+            "StorageOptions": {
+                "InventoryManagementActive": false,
+                "SplitQuantity": false,
+                "GlobalMinimumStockLevel": 0.0,
+                "Buffer": 0,
+                "SerialNumberItem": false,
+                "SerialNumberTracking": false,
+                "SubjectToShelfLifeExpirationDate": false,
+                "SubjectToBatchItem": false,
+                "ProcurementTime": 0,
+                "DetermineProcurementTimeAutomatically": false,
+                "AdditionalHandlingTime": 0
+            },
+            "ConditionId": 1,
+            "ShippingClassId": 1,
+            "ProductGroupId": 0,
+            "TaxClassId": 4,
+            "Dimensions": {
+                "Length": 0.0,
+                "Width": 0.0,
+                "Height": 0.0
+            },
+            "Weights": {
+                "ItemWeigth": 0.16,
+                "ShippingWeight": 0.24
+            },
+            "AllowNegativeStock": false,
+            "Quantities": {
+                "MinimumOrderQuantity": 0.0,
+                "MinimumPurchaseQuantityForCustomerGroup": [
+                    {
+                        "CustomerGroupId": 1,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 2,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 3,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 4,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 5,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 6,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 7,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 9,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 10,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    }
+                ],
+                "PermissibleOrderQuantity": 0.0
+            },
+            "DangerousGoods": {
+                "UnNumber": ""
+            },
+            "SearchTerms": "",
+            "PriceListActive": false,
+            "IgnoreDiscounts": false
+        },
+        {
+            "Id": 19636,
+            "SKU": "AUTEL-Abarth-595-595C-06",
+            "ManufacturerId": 5,
+            "ResponsiblePersonId": 1,
+            "IsActive": false,
+            "Categories": [
+                {
+                    "CategoryId": 410,
+                    "Name": "Shopify -> Reifendrucksensoren"
+                },
+                {
+                    "CategoryId": 278,
+                    "Name": "WebShop -> Produkte -> Reifendrucksensoren -> RDKS_AUTEL"
+                },
+                {
+                    "CategoryId": 280,
+                    "Name": "TPMS Sensor -> Autel-Sensoren (Varter+Kind Artikel) -> Abarth"
+                }
+            ],
+            "Name": "4 St\u00fcck Reifendrucksensoren kompatibel mit Abarth 595 & 595C 01.2015 - 12.2021 Alu Silber",
+            "Description": "<p>Kompatibel mit Abarth 595 & 595C</p>\n\n<p>Die Anlernung erfolgt automatisch w&auml;hrend der Fahrt</p>\n\n<p>Die hohe Genauigkeit und Empfindlichkeit verbessert die Sicherheit Ihres Fahrzeuges.<br />\nPasst perfekt zu jedem Fahrzeug mit einem 433Mhz Reifendruckkontrollsystem (TPMS RDKS).<br />\nDank der Premium Qualit&auml;t aus hochwertigem Kunststoff ist der Sensor gut gesch&uuml;tzt und gew&auml;hrt eine lange Lebensdauer.<br />\nSuper einfache DIY-Installation innerhalb weniger Minuten, keine dynamische Auswuchtung erforderlich.</p>",
+            "ShortDescription": "Bitte entnehmen Sie das Baujahr aus dem Fahrzeugschein der Position 6. Die Erstzulassung ist hier nur G\u00fcltig, wenn auf Position 6 kein Datum steht!",
+            "Identifiers": {
+                "Gtin": "4059568144608",
+                "ManufacturerNumber": "01.2015 - 12.2021 (595C) Alu Silber ",
+                "Asins": [
+                    "B0CKLNL32H",
+                    "B0CKLNL32H",
+                    "B0CKLNL32H",
+                    "B0CKLNL32H",
+                    "B0CKLNL32H",
+                    "B0CKLNL32H",
+                    "B0CKLNL32H",
+                    "B0CKLNL32H",
+                    "B0CKLNL32H"
+                ]
+            },
+            "Components": [
+                {
+                    "ItemId": 3225,
+                    "Quantity": 4.0,
+                    "SortNumber": 1
+                }
+            ],
+            "ChildItems": [],
+            "ParentItemId": 19630,
+            "ItemPriceData": {
+                "SalesPriceNet": 62.97478992,
+                "SuggestedRetailPrice": 149.99,
+                "PurchasePriceNet": 22.8,
+                "EbayPrice": 0.0,
+                "AmazonPrice": 0.0
+            },
+            "ActiveSalesChannels": [],
+            "SortNumber": 0,
+            "Added": "2023-10-06T13:39:39.06+02:00",
+            "Changed": "2025-03-21T11:00:42+01:00",
+            "ReleasedOnDate": "0001-01-01T00:00:00+00:00",
+            "StorageOptions": {
+                "InventoryManagementActive": false,
+                "SplitQuantity": false,
+                "GlobalMinimumStockLevel": 0.0,
+                "Buffer": 0,
+                "SerialNumberItem": false,
+                "SerialNumberTracking": false,
+                "SubjectToShelfLifeExpirationDate": false,
+                "SubjectToBatchItem": false,
+                "ProcurementTime": 0,
+                "DetermineProcurementTimeAutomatically": false,
+                "AdditionalHandlingTime": 0
+            },
+            "ConditionId": 1,
+            "ShippingClassId": 1,
+            "ProductGroupId": 0,
+            "TaxClassId": 4,
+            "Dimensions": {
+                "Length": 0.0,
+                "Width": 0.0,
+                "Height": 0.0
+            },
+            "Weights": {
+                "ItemWeigth": 0.16,
+                "ShippingWeight": 0.24
+            },
+            "AllowNegativeStock": false,
+            "Quantities": {
+                "MinimumOrderQuantity": 0.0,
+                "MinimumPurchaseQuantityForCustomerGroup": [
+                    {
+                        "CustomerGroupId": 1,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 2,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 3,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 4,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 5,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 6,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 7,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 9,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 10,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    }
+                ],
+                "PermissibleOrderQuantity": 0.0
+            },
+            "DangerousGoods": {
+                "UnNumber": ""
+            },
+            "SearchTerms": "",
+            "PriceListActive": false,
+            "IgnoreDiscounts": false
+        },
+        {
+            "Id": 19637,
+            "SKU": "AUTEL-Abarth-595-595C-07",
+            "ManufacturerId": 5,
+            "ResponsiblePersonId": 1,
+            "IsActive": false,
+            "Categories": [
+                {
+                    "CategoryId": 410,
+                    "Name": "Shopify -> Reifendrucksensoren"
+                },
+                {
+                    "CategoryId": 278,
+                    "Name": "WebShop -> Produkte -> Reifendrucksensoren -> RDKS_AUTEL"
+                },
+                {
+                    "CategoryId": 280,
+                    "Name": "TPMS Sensor -> Autel-Sensoren (Varter+Kind Artikel) -> Abarth"
+                }
+            ],
+            "Name": "4 St\u00fcck Reifendrucksensoren kompatibel mit Abarth 595 & 595C 01.2015 - 12.2021 Alu Gunmetal",
+            "Description": "<p>Kompatibel mit Abarth 595 & 595C</p>\n\n<p>Die Anlernung erfolgt automatisch w&auml;hrend der Fahrt</p>\n\n<p>Die hohe Genauigkeit und Empfindlichkeit verbessert die Sicherheit Ihres Fahrzeuges.<br />\nPasst perfekt zu jedem Fahrzeug mit einem 433Mhz Reifendruckkontrollsystem (TPMS RDKS).<br />\nDank der Premium Qualit&auml;t aus hochwertigem Kunststoff ist der Sensor gut gesch&uuml;tzt und gew&auml;hrt eine lange Lebensdauer.<br />\nSuper einfache DIY-Installation innerhalb weniger Minuten, keine dynamische Auswuchtung erforderlich.</p>",
+            "ShortDescription": "Bitte entnehmen Sie das Baujahr aus dem Fahrzeugschein der Position 6. Die Erstzulassung ist hier nur G\u00fcltig, wenn auf Position 6 kein Datum steht!",
+            "Identifiers": {
+                "Gtin": "4059568144615",
+                "ManufacturerNumber": "01.2015 - 12.2021 (595C) Alu Gunmetal ",
+                "Asins": [
+                    "B0CKLNZBHG",
+                    "B0CKLNZBHG",
+                    "B0CKLNZBHG",
+                    "B0CKLNZBHG",
+                    "B0CKLNZBHG",
+                    "B0CKLNZBHG",
+                    "B0CKLNZBHG",
+                    "B0CKLNZBHG",
+                    "B0CKLNZBHG"
+                ]
+            },
+            "Components": [
+                {
+                    "ItemId": 4608,
+                    "Quantity": 4.0,
+                    "SortNumber": 1
+                }
+            ],
+            "ChildItems": [],
+            "ParentItemId": 19630,
+            "ItemPriceData": {
+                "SalesPriceNet": 62.97478992,
+                "SuggestedRetailPrice": 149.99,
+                "PurchasePriceNet": 22.8,
+                "EbayPrice": 0.0,
+                "AmazonPrice": 0.0
+            },
+            "ActiveSalesChannels": [],
+            "SortNumber": 0,
+            "Added": "2023-10-06T13:39:39.06+02:00",
+            "Changed": "2025-03-21T11:00:42+01:00",
+            "ReleasedOnDate": "0001-01-01T00:00:00+00:00",
+            "StorageOptions": {
+                "InventoryManagementActive": false,
+                "SplitQuantity": false,
+                "GlobalMinimumStockLevel": 0.0,
+                "Buffer": 0,
+                "SerialNumberItem": false,
+                "SerialNumberTracking": false,
+                "SubjectToShelfLifeExpirationDate": false,
+                "SubjectToBatchItem": false,
+                "ProcurementTime": 0,
+                "DetermineProcurementTimeAutomatically": false,
+                "AdditionalHandlingTime": 0
+            },
+            "ConditionId": 1,
+            "ShippingClassId": 1,
+            "ProductGroupId": 0,
+            "TaxClassId": 4,
+            "Dimensions": {
+                "Length": 0.0,
+                "Width": 0.0,
+                "Height": 0.0
+            },
+            "Weights": {
+                "ItemWeigth": 0.16,
+                "ShippingWeight": 0.24
+            },
+            "AllowNegativeStock": false,
+            "Quantities": {
+                "MinimumOrderQuantity": 0.0,
+                "MinimumPurchaseQuantityForCustomerGroup": [
+                    {
+                        "CustomerGroupId": 1,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 2,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 3,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 4,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 5,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 6,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 7,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 9,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 10,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    }
+                ],
+                "PermissibleOrderQuantity": 0.0
+            },
+            "DangerousGoods": {
+                "UnNumber": ""
+            },
+            "SearchTerms": "",
+            "PriceListActive": false,
+            "IgnoreDiscounts": false
+        },
+        {
+            "Id": 19638,
+            "SKU": "AUTEL-Abarth-595-595C-08",
+            "ManufacturerId": 5,
+            "ResponsiblePersonId": 1,
+            "IsActive": false,
+            "Categories": [
+                {
+                    "CategoryId": 410,
+                    "Name": "Shopify -> Reifendrucksensoren"
+                },
+                {
+                    "CategoryId": 278,
+                    "Name": "WebShop -> Produkte -> Reifendrucksensoren -> RDKS_AUTEL"
+                },
+                {
+                    "CategoryId": 280,
+                    "Name": "TPMS Sensor -> Autel-Sensoren (Varter+Kind Artikel) -> Abarth"
+                }
+            ],
+            "Name": "4 St\u00fcck Reifendrucksensoren kompatibel mit Abarth 595 & 595C 01.2015 - 12.2021 Gummi Schwarz",
+            "Description": "<p>Kompatibel mit Abarth 595 & 595C</p>\n\n<p>Die Anlernung erfolgt automatisch w&auml;hrend der Fahrt</p>\n\n<p>Die hohe Genauigkeit und Empfindlichkeit verbessert die Sicherheit Ihres Fahrzeuges.<br />\nPasst perfekt zu jedem Fahrzeug mit einem 433Mhz Reifendruckkontrollsystem (TPMS RDKS).<br />\nDank der Premium Qualit&auml;t aus hochwertigem Kunststoff ist der Sensor gut gesch&uuml;tzt und gew&auml;hrt eine lange Lebensdauer.<br />\nSuper einfache DIY-Installation innerhalb weniger Minuten, keine dynamische Auswuchtung erforderlich.</p>",
+            "ShortDescription": "Bitte entnehmen Sie das Baujahr aus dem Fahrzeugschein der Position 6. Die Erstzulassung ist hier nur G\u00fcltig, wenn auf Position 6 kein Datum steht!",
+            "Identifiers": {
+                "Gtin": "4059568144622",
+                "ManufacturerNumber": "01.2015 - 12.2021 (595C) Gummi Sch.",
+                "Asins": [
+                    "B0CKLQFRDS",
+                    "B0CKLQFRDS",
+                    "B0CKLQFRDS",
+                    "B0CKLQFRDS",
+                    "B0CKLQFRDS",
+                    "B0CKLQFRDS",
+                    "B0CKLQFRDS",
+                    "B0CKLQFRDS",
+                    "B0CKLQFRDS"
+                ]
+            },
+            "Components": [
+                {
+                    "ItemId": 3226,
+                    "Quantity": 4.0,
+                    "SortNumber": 1
+                }
+            ],
+            "ChildItems": [],
+            "ParentItemId": 19630,
+            "ItemPriceData": {
+                "SalesPriceNet": 62.97478992,
+                "SuggestedRetailPrice": 149.99,
+                "PurchasePriceNet": 22.8,
+                "EbayPrice": 0.0,
+                "AmazonPrice": 0.0
+            },
+            "ActiveSalesChannels": [],
+            "SortNumber": 0,
+            "Added": "2023-10-06T13:39:39.06+02:00",
+            "Changed": "2025-03-21T11:00:42+01:00",
+            "ReleasedOnDate": "0001-01-01T00:00:00+00:00",
+            "StorageOptions": {
+                "InventoryManagementActive": false,
+                "SplitQuantity": false,
+                "GlobalMinimumStockLevel": 0.0,
+                "Buffer": 0,
+                "SerialNumberItem": false,
+                "SerialNumberTracking": false,
+                "SubjectToShelfLifeExpirationDate": false,
+                "SubjectToBatchItem": false,
+                "ProcurementTime": 0,
+                "DetermineProcurementTimeAutomatically": false,
+                "AdditionalHandlingTime": 0
+            },
+            "ConditionId": 1,
+            "ShippingClassId": 1,
+            "ProductGroupId": 0,
+            "TaxClassId": 4,
+            "Dimensions": {
+                "Length": 0.0,
+                "Width": 0.0,
+                "Height": 0.0
+            },
+            "Weights": {
+                "ItemWeigth": 0.16,
+                "ShippingWeight": 0.24
+            },
+            "AllowNegativeStock": false,
+            "Quantities": {
+                "MinimumOrderQuantity": 0.0,
+                "MinimumPurchaseQuantityForCustomerGroup": [
+                    {
+                        "CustomerGroupId": 1,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 2,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 3,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 4,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 5,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 6,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 7,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 9,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 10,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    }
+                ],
+                "PermissibleOrderQuantity": 0.0
+            },
+            "DangerousGoods": {
+                "UnNumber": ""
+            },
+            "SearchTerms": "",
+            "PriceListActive": false,
+            "IgnoreDiscounts": false
+        },
+        {
+            "Id": 56009,
+            "SKU": "AR33914",
+            "ManufacturerId": 5,
+            "IsActive": true,
+            "Categories": [
+                {
+                    "CategoryId": 410,
+                    "Name": "Shopify -> Reifendrucksensoren"
+                },
+                {
+                    "CategoryId": 238,
+                    "Name": "WebShop -> Produkte -> Reifendrucksensoren"
+                }
+            ],
+            "Name": "4x Reifendrucksensoren RDKS Sensoren Metallventil Silber f\u00fcr Abarth 595 2022-2023",
+            "Description": "<p>Die hohe Genauigkeit und Empfindlichkeit verbessert die Sicherheit Ihres Fahrzeuges.<br />\nPasst perfekt zu jedem Fahrzeug mit einem 433Mhz Reifendruckkontrollsystem (TPMS RDKS).<br />\nDank der Premium Qualit\u00e4t aus hochwertigem Kunststoff ist der Sensor gut gesch\u00fctzt und gew\u00e4hrt eine lange Lebensdauer.<br />\nSuper einfache DIY-Installation innerhalb weniger Minuten, keine dynamische Auswuchtung erforderlich.<br />\nDie Sensoren sind bereits vorprogrammiert und einsatzbereit, diese m\u00fcssen nur \u00fcber das Fahrzeug angelernt werden.<br />\n<br />\n<br />\n<strong>Technische Daten:</strong><br />\n- Frequenz: 433 Mhz<br />\n- OE: 53104671,68241067AA<br />\n- Bereits vorprogrammiert und einsatzbereit<br />\n<br />\nDiese Reifendrucksensoren sind mit folgenden Fahrzeugen kompatibel:<br />\n<br />\n<strong>Abarth 595</strong><br />\n<strong>Baujahr:</strong>&nbsp;2022-2023<br />\n<br />\n<strong>Lieferumfang:<br />\n- </strong>4x RDKS TPMS fertig programmierte Sensoren</p>",
+            "ShortDescription": "OE Nummer: 53104671,68241067AA<br />4 St\u00fcck RDKS Sensoren<br />Reifendruck Kontrollsystem<br />Vorprogrammiert und Einsatzbereit<br />bis zu 300km/h",
+            "Identifiers": {
+                "Gtin": "4059568208683",
+                "ManufacturerNumber": "HAN01269",
+                "ISBN": "",
+                "Asins": []
+            },
+            "Components": [
+                {
+                    "ItemId": 3225,
+                    "Quantity": 4.0,
+                    "SortNumber": 1
+                }
+            ],
+            "ChildItems": [],
+            "ParentItemId": 0,
+            "ItemPriceData": {
+                "SalesPriceNet": 62.9327731092437,
+                "SuggestedRetailPrice": 0.0,
+                "PurchasePriceNet": 22.8,
+                "EbayPrice": 74.89,
+                "AmazonPrice": 79.99
+            },
+            "ActiveSalesChannels": [
+                "2-2-1",
+                "8-140-7",
+                "8-140-8",
+                "8-140-13",
+                "11-8--1-17",
+                "11-8--1-19",
+                "2-2-22",
+                "11-8--1-27"
+            ],
+            "SortNumber": 0,
+            "Added": "2025-06-28T14:05:58.9+02:00",
+            "Changed": "0001-01-01T00:00:00+00:00",
+            "ReleasedOnDate": "0001-01-01T00:00:00+00:00",
+            "StorageOptions": {
+                "InventoryManagementActive": true,
+                "SplitQuantity": false,
+                "GlobalMinimumStockLevel": 0.0,
+                "Buffer": 0,
+                "SerialNumberItem": false,
+                "SerialNumberTracking": false,
+                "SubjectToShelfLifeExpirationDate": false,
+                "SubjectToBatchItem": false,
+                "ProcurementTime": 0,
+                "DetermineProcurementTimeAutomatically": false,
+                "AdditionalHandlingTime": 0
+            },
+            "CountryOfOrigin": "DE",
+            "ConditionId": 1,
+            "ShippingClassId": 1,
+            "ProductGroupId": 24,
+            "TaxClassId": 4,
+            "Dimensions": {
+                "Length": 126.0,
+                "Width": 76.0,
+                "Height": 84.0
+            },
+            "Weights": {
+                "ItemWeigth": 0.16,
+                "ShippingWeight": 0.24
+            },
+            "AllowNegativeStock": false,
+            "Quantities": {
+                "MinimumOrderQuantity": 0.0,
+                "MinimumPurchaseQuantityForCustomerGroup": [
+                    {
+                        "CustomerGroupId": 1,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 2,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 3,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 4,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 5,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 6,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 7,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 9,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 10,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    }
+                ],
+                "PermissibleOrderQuantity": 0.0
+            },
+            "DangerousGoods": {
+                "UnNumber": "",
+                "HazardNo": ""
+            },
+            "Taric": "1690318000",
+            "SearchTerms": "",
+            "PriceListActive": false,
+            "IgnoreDiscounts": false
+        },
+        {
+            "Id": 56015,
+            "SKU": "AR33920",
+            "ManufacturerId": 5,
+            "IsActive": true,
+            "Categories": [
+                {
+                    "CategoryId": 410,
+                    "Name": "Shopify -> Reifendrucksensoren"
+                },
+                {
+                    "CategoryId": 238,
+                    "Name": "WebShop -> Produkte -> Reifendrucksensoren"
+                }
+            ],
+            "Name": "4x Reifendrucksensoren RDKS Sensoren Metallventil Silber f\u00fcr Abarth 595 2015-2021",
+            "Description": "<p>Die hohe Genauigkeit und Empfindlichkeit verbessert die Sicherheit Ihres Fahrzeuges.<br />\nPasst perfekt zu jedem Fahrzeug mit einem 433Mhz Reifendruckkontrollsystem (TPMS RDKS).<br />\nDank der Premium Qualit\u00e4t aus hochwertigem Kunststoff ist der Sensor gut gesch\u00fctzt und gew\u00e4hrt eine lange Lebensdauer.<br />\nSuper einfache DIY-Installation innerhalb weniger Minuten, keine dynamische Auswuchtung erforderlich.<br />\nDie Sensoren sind bereits vorprogrammiert und einsatzbereit, diese m\u00fcssen nur \u00fcber das Fahrzeug angelernt werden.<br />\n<br />\n<br />\n<strong>Technische Daten:</strong><br />\n- Frequenz: 433 Mhz<br />\n- OE: 53104671,68241067AA<br />\n- Bereits vorprogrammiert und einsatzbereit<br />\n<br />\nDiese Reifendrucksensoren sind mit folgenden Fahrzeugen kompatibel:<br />\n<br />\n<strong>Abarth 595</strong><br />\n<strong>Baujahr:</strong>&nbsp;2015-2021<br />\n<br />\n<strong>Lieferumfang:<br />\n- </strong>4x RDKS TPMS fertig programmierte Sensoren</p>",
+            "ShortDescription": "OE Nummer: 53104671,68241067AA<br />4 St\u00fcck RDKS Sensoren<br />Reifendruck Kontrollsystem<br />Vorprogrammiert und Einsatzbereit<br />bis zu 300km/h",
+            "Identifiers": {
+                "Gtin": "4059568208447",
+                "ManufacturerNumber": "HAN01245",
+                "ISBN": "",
+                "Asins": []
+            },
+            "Components": [
+                {
+                    "ItemId": 3225,
+                    "Quantity": 4.0,
+                    "SortNumber": 1
+                }
+            ],
+            "ChildItems": [],
+            "ParentItemId": 0,
+            "ItemPriceData": {
+                "SalesPriceNet": 62.9327731092437,
+                "SuggestedRetailPrice": 0.0,
+                "PurchasePriceNet": 22.8,
+                "EbayPrice": 74.89,
+                "AmazonPrice": 79.99
+            },
+            "ActiveSalesChannels": [
+                "2-2-1",
+                "8-140-7",
+                "8-140-8",
+                "8-140-13",
+                "11-8--1-17",
+                "11-8--1-19",
+                "2-2-22",
+                "11-8--1-27"
+            ],
+            "SortNumber": 0,
+            "Added": "2025-06-28T14:05:58.9+02:00",
+            "Changed": "0001-01-01T00:00:00+00:00",
+            "ReleasedOnDate": "0001-01-01T00:00:00+00:00",
+            "StorageOptions": {
+                "InventoryManagementActive": true,
+                "SplitQuantity": false,
+                "GlobalMinimumStockLevel": 0.0,
+                "Buffer": 0,
+                "SerialNumberItem": false,
+                "SerialNumberTracking": false,
+                "SubjectToShelfLifeExpirationDate": false,
+                "SubjectToBatchItem": false,
+                "ProcurementTime": 0,
+                "DetermineProcurementTimeAutomatically": false,
+                "AdditionalHandlingTime": 0
+            },
+            "CountryOfOrigin": "DE",
+            "ConditionId": 1,
+            "ShippingClassId": 1,
+            "ProductGroupId": 24,
+            "TaxClassId": 4,
+            "Dimensions": {
+                "Length": 126.0,
+                "Width": 76.0,
+                "Height": 84.0
+            },
+            "Weights": {
+                "ItemWeigth": 0.16,
+                "ShippingWeight": 0.24
+            },
+            "AllowNegativeStock": false,
+            "Quantities": {
+                "MinimumOrderQuantity": 0.0,
+                "MinimumPurchaseQuantityForCustomerGroup": [
+                    {
+                        "CustomerGroupId": 1,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 2,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 3,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 4,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 5,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 6,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 7,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 9,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 10,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    }
+                ],
+                "PermissibleOrderQuantity": 0.0
+            },
+            "DangerousGoods": {
+                "UnNumber": "",
+                "HazardNo": ""
+            },
+            "Taric": "1690318000",
+            "SearchTerms": "",
+            "PriceListActive": false,
+            "IgnoreDiscounts": false
+        },
+        {
+            "Id": 56016,
+            "SKU": "AR33921",
+            "ManufacturerId": 5,
+            "IsActive": true,
+            "Categories": [
+                {
+                    "CategoryId": 410,
+                    "Name": "Shopify -> Reifendrucksensoren"
+                },
+                {
+                    "CategoryId": 238,
+                    "Name": "WebShop -> Produkte -> Reifendrucksensoren"
+                }
+            ],
+            "Name": "4x Reifendrucksensoren RDKS Sensoren Metallventil Silber f\u00fcr Abarth 595 2012-2015",
+            "Description": "<p>Die hohe Genauigkeit und Empfindlichkeit verbessert die Sicherheit Ihres Fahrzeuges.<br />\nPasst perfekt zu jedem Fahrzeug mit einem 433Mhz Reifendruckkontrollsystem (TPMS RDKS).<br />\nDank der Premium Qualit\u00e4t aus hochwertigem Kunststoff ist der Sensor gut gesch\u00fctzt und gew\u00e4hrt eine lange Lebensdauer.<br />\nSuper einfache DIY-Installation innerhalb weniger Minuten, keine dynamische Auswuchtung erforderlich.<br />\nDie Sensoren sind bereits vorprogrammiert und einsatzbereit, diese m\u00fcssen nur \u00fcber das Fahrzeug angelernt werden.<br />\n<br />\n<br />\n<strong>Technische Daten:</strong><br />\n- Frequenz: 433 Mhz<br />\n- OE: 53104671,68241067AA<br />\n- Bereits vorprogrammiert und einsatzbereit<br />\n<br />\nDiese Reifendrucksensoren sind mit folgenden Fahrzeugen kompatibel:<br />\n<br />\n<strong>Abarth 595</strong><br />\n<strong>Baujahr:</strong>&nbsp;2012-2015<br />\n<br />\n<strong>Lieferumfang:<br />\n- </strong>4x RDKS TPMS fertig programmierte Sensoren</p>",
+            "ShortDescription": "OE Nummer: 53104671,68241067AA<br />4 St\u00fcck RDKS Sensoren<br />Reifendruck Kontrollsystem<br />Vorprogrammiert und Einsatzbereit<br />bis zu 300km/h",
+            "Identifiers": {
+                "Gtin": "4059568208409",
+                "ManufacturerNumber": "HAN01241",
+                "ISBN": "",
+                "Asins": []
+            },
+            "Components": [
+                {
+                    "ItemId": 3225,
+                    "Quantity": 4.0,
+                    "SortNumber": 1
+                }
+            ],
+            "ChildItems": [],
+            "ParentItemId": 0,
+            "ItemPriceData": {
+                "SalesPriceNet": 62.9327731092437,
+                "SuggestedRetailPrice": 0.0,
+                "PurchasePriceNet": 22.8,
+                "EbayPrice": 74.89,
+                "AmazonPrice": 79.99
+            },
+            "ActiveSalesChannels": [
+                "2-2-1",
+                "8-140-7",
+                "8-140-8",
+                "8-140-13",
+                "11-8--1-17",
+                "11-8--1-19",
+                "2-2-22",
+                "11-8--1-27"
+            ],
+            "SortNumber": 0,
+            "Added": "2025-06-28T14:05:58.9+02:00",
+            "Changed": "0001-01-01T00:00:00+00:00",
+            "ReleasedOnDate": "0001-01-01T00:00:00+00:00",
+            "StorageOptions": {
+                "InventoryManagementActive": true,
+                "SplitQuantity": false,
+                "GlobalMinimumStockLevel": 0.0,
+                "Buffer": 0,
+                "SerialNumberItem": false,
+                "SerialNumberTracking": false,
+                "SubjectToShelfLifeExpirationDate": false,
+                "SubjectToBatchItem": false,
+                "ProcurementTime": 0,
+                "DetermineProcurementTimeAutomatically": false,
+                "AdditionalHandlingTime": 0
+            },
+            "CountryOfOrigin": "DE",
+            "ConditionId": 1,
+            "ShippingClassId": 1,
+            "ProductGroupId": 24,
+            "TaxClassId": 4,
+            "Dimensions": {
+                "Length": 126.0,
+                "Width": 76.0,
+                "Height": 84.0
+            },
+            "Weights": {
+                "ItemWeigth": 0.16,
+                "ShippingWeight": 0.24
+            },
+            "AllowNegativeStock": false,
+            "Quantities": {
+                "MinimumOrderQuantity": 0.0,
+                "MinimumPurchaseQuantityForCustomerGroup": [
+                    {
+                        "CustomerGroupId": 1,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 2,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 3,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 4,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 5,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 6,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 7,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 9,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    },
+                    {
+                        "CustomerGroupId": 10,
+                        "PermissibleOrderQuantity": 0.0,
+                        "MinimumPurchaseQuantity": 0.0,
+                        "IsActive": false
+                    }
+                ],
+                "PermissibleOrderQuantity": 0.0
+            },
+            "DangerousGoods": {
+                "UnNumber": "",
+                "HazardNo": ""
+            },
+            "Taric": "1690318000",
+            "SearchTerms": "",
+            "PriceListActive": false,
+            "IgnoreDiscounts": false
+        }
+    ],
+    "TotalPages": 67,
+    "HasPreviousPage": true,
+    "HasNextPage": true,
+    "NextPageNumber": 3,
+    "PreviousPageNumber": 1
+}
